@@ -6,7 +6,7 @@ Mapa interactivo de los lugares habilitados para la colocación gratuita de cart
 
 ## Fuente
 
-Edictos de las Xuntas Electorais de Zona (Vigo, Pontevedra, Cambados, Tui, Ponteareas, Lalín y A Estrada) publicados en el [BOPPO nº 202, de 20 de octubre de 2026](https://boppo.depo.gal/detalle/-/boppo/2026/10/20).
+Edictos de las Xuntas Electorais de Zona (Vigo, Pontevedra, Cambados, Tui, Ponteareas, Lalín y A Estrada) publicados en el [BOPPO nº 202, de 20 de octubre de 2026](https://boppo.depo.gal/detalle/-/boppo/2026/10/20), con las correcciones del [BOPPO nº 204, de 22 de octubre de 2026](https://boppo.depo.gal/detalle/-/boppo/2026/10/22) (zonas de Cambados y Vigo). Revisado hasta el BOPPO nº 225 (20/11/2026): no hay más correcciones.
 
 ## Contenido
 
